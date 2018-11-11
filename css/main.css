@@ -31,6 +31,10 @@ h2 {
   color: red;
 }
 
+h3 {
+  color: #08088A;
+}
+
 .box {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, .2);
   border-top: 8px solid #5898B2;
